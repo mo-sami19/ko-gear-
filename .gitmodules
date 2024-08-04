@@ -1,0 +1,3 @@
+[submodule "apps/isomorphic"]
+	path = apps/isomorphic
+	url = https://github.com/mo-sami19/ko-gear-.git
